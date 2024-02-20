@@ -59,6 +59,8 @@ public class windowSoftManager extends CordovaPlugin {
         cordova.getActivity().getWindow().setSoftInputMode(softInputMode);
       }
     });
+
+    return true;
   }
 
 }
