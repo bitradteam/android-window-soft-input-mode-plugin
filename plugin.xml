@@ -23,5 +23,4 @@
         </config-file>
         <source-file src="src/android/windowSoftManager.java" target-dir="src/" />
     </platform>
-
 </plugin>
