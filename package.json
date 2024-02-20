@@ -1,0 +1,11 @@
+{
+    "name": "windowSoftInputMode",
+    "version": "1.0.0",
+    "cordova": {
+      "id": "windowSoftInputMode",
+      "platforms": [
+        "android"
+      ]
+    },
+    "description": "Cordova plugin to change windowSoftInputMode"
+}
